@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ocean Notes</string>
+    <string name="notes_list_title">Your Notes</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Write your note…</string>
+    <string name="empty_state">No notes yet. Tap + to create one.</string>
+    <string name="last_edited">Last edited %1$s</string>
+    <string name="discard_changes">Discard changes?</string>
+    <string name="discard_changes_message">You have unsaved changes. Do you want to discard them?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Discard</string>
+</resources>
